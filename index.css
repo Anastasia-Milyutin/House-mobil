@@ -427,6 +427,7 @@ a:hover {
   }
   .conteiner-header {
     padding: 0;
+    justify-content: space-around;
   }
   .video-img {
     width: 581px;
@@ -450,4 +451,11 @@ a:hover {
     flex-wrap: wrap;
     height: 100%;
   }
+  .flat {
+    width: 435px}
+    .appartments-one {
+      display: block;}
+      .pros {
+      padding-top: 0;
+        gap: 10px;}
 }
